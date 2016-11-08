@@ -1,0 +1,2 @@
+# SerilogTest
+Testing out serilog
